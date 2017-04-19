@@ -1,4 +1,4 @@
-# Plugins que utilizo no Sublime Text 3
+# Plugins que utilizo no [Sublime Text 3](https://www.sublimetext.com/3)
 
 ## Configurações
 Para realizar as configurações basta acessar "Preferences -> Settings", após abrir a janela inserir as linhas desejadas abaixo. Lembrando que o formato é JSON com isso deve respeitar a formação do mesmo.
